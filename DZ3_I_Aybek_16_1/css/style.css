@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.change {
+    background: orange;
+}
+.delete {
+    background: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20%;
+}
