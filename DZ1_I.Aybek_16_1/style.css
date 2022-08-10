@@ -1,0 +1,16 @@
+.container {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    border: solid 2px red;
+
+}
+.block {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    border: solid 1px blue;
+    left: 25px;
+    top: 25px;
+}
